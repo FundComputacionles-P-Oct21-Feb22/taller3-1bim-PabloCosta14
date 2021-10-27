@@ -1,0 +1,5 @@
+Representar un dominio para los número enteros del 10 al 200; excepto los pares de 50 al 60.
+
+Ejercicio 4
+
+i[{10-200},!{50,52,54,...,60}]

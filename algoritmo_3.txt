@@ -1,0 +1,13 @@
+Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6
+
+algoritmo 3
+
+1.Inicio
+2.Se mostrar un mensaje de "Solo se puede mostrar la tabla de multiplicar,Si no estan los valores del numero entre 2 y 6"
+3.Se pide que el usuario ingrese un numero
+4.Verificar si el numero esta en el rango pedido
+5.Si el numero no esta en el rango permitido se mostrara un mensaje de "numero no permitido"
+7.Si el numero esta en el rango permitido se procedera a la multiplicacion 
+5.Se muestra la tabla de multiplicar del numero ingresado
+7.Verificar si el numero esta en el rango pedido
+8.Fin
